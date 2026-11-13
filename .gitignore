@@ -1,0 +1,6 @@
+dist/
+stage/
+flagtool/out/
+module/flagtool.dex
+module/sl/
+*.apk

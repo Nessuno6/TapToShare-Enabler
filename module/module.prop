@@ -1,0 +1,7 @@
+id=taptoshare_enable
+name=Quick Share Tap to share enabler
+version=v0.0
+versionCode=0
+author=deang
+description=Enables Quick Share Tap to share on Galaxy phones with NFC. Mounts Quick Share 13.9.02.22 (newer builds hardcode the feature off; you provide the APK) in memory over the built-in app, sets the flags it checks, and lowers the Play services minimum Quick Share version for the NFC tap. Nothing written to /system.
+updateJson=https://raw.githubusercontent.com/Nessuno6/TapToShare-Enabler/main/update.json
