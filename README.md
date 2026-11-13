@@ -70,3 +70,7 @@ in sorted position, because Play services ignores entries appended at the end.
 ```text
 CLASSPATH=flagtool.dex app_process /system/bin dev.deang.flagtool.Main FILE ID... [ID=N...] [-NAME...]
 ```
+
+## License
+
+[MIT](LICENSE). Quick Share itself is Samsung's app and isn't part of this project.
