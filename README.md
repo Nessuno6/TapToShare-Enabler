@@ -21,6 +21,14 @@ handles each:
 After boot it re-checks every 10 minutes and re-applies if a Quick Share or Play services
 update reset anything. Uninstalling removes the settings file and the flag override.
 
+## Compatibility
+
+Tested and working on a **Galaxy S25 Ultra** and a **Galaxy A17**.
+
+Low-end devices may have problems: after the NFC tap, Quick Share sets up a Wi-Fi Direct
+connection for the transfer, and a slow phone can take too long to do that, so the share
+fails.
+
 ## Install
 
 Needs root (KernelSU or Magisk) and a phone with NFC.
